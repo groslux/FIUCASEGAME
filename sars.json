@@ -1,0 +1,42 @@
+[
+    {
+        "report_id": "SAR-001",
+        "reporter": "Bank LuxTrust",
+        "subject": "Ahmed M.",
+        "activity": "10 wire transfers of €9,950 from unrelated senders. Funds sent to UAE shell company.",
+        "risk_factors": ["Structuring", "Shell Company", "High-risk jurisdiction"],
+        "attachments": ["kyc_ahmed.pdf", "transactions_sar001.csv"]
+    },
+    {
+        "report_id": "SAR-002",
+        "reporter": "CryptoXchange",
+        "subject": "Svetlana R.",
+        "activity": "Large crypto-to-fiat conversions followed by cash withdrawals in Latvia.",
+        "risk_factors": ["Cash Transactions", "Crypto Red Flag", "Unknown Source of Funds"],
+        "attachments": ["kyc_svetlana.pdf", "transactions_sar002.csv"]
+    },
+    {
+        "report_id": "SAR-003",
+        "reporter": "Banque Européenne",
+        "subject": "Guang T.",
+        "activity": "Incoming funds from Panama holding; invested in Parisian real estate under relative’s name.",
+        "risk_factors": ["Real Estate Laundering", "Third Party Involvement", "Offshore Entity"],
+        "attachments": ["holding_structure.pdf", "property_deal.csv"]
+    },
+    {
+        "report_id": "SAR-004",
+        "reporter": "LuxTrust Bank",
+        "subject": "Ali B.",
+        "activity": "Client opened 4 accounts using variations of his name. All accounts receive round amounts weekly.",
+        "risk_factors": ["Identity Manipulation", "Smurfing", "Multiple Accounts"],
+        "attachments": ["kyc_variants.pdf", "account_summary_sar004.csv"]
+    },
+    {
+        "report_id": "SAR-005",
+        "reporter": "InvestCo",
+        "subject": "Marina D.",
+        "activity": "High-volume trades in penny stocks followed by transfers to Cyprus.",
+        "risk_factors": ["Pump and Dump", "Cyprus Risk", "Complex Securities"],
+        "attachments": ["trade_logs.csv", "kyc_marina.pdf"]
+    }
+]
