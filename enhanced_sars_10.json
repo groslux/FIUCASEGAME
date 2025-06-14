@@ -1,0 +1,582 @@
+[
+    {
+        "report_id": "SAR-100",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Blake and Sons",
+        "subject": {
+            "name": "Allison Hill",
+            "dob": "1974-08-21",
+            "pob": "Lake Curtis, Saint Vincent and the Grenadines",
+            "nationality": "Uganda",
+            "id_type": "Driving License",
+            "id_number": "fno819600",
+            "id_expiry": "2027-01-28"
+        },
+        "entities": [
+            {
+                "name": "Allison Hill",
+                "type": "individual",
+                "country": "Uganda"
+            },
+            {
+                "name": "Guzman, Hoffman and Baldwin",
+                "type": "corporate",
+                "country": "Serbia"
+            },
+            {
+                "name": "Gardner, Robinson and Lawrence Exchange",
+                "type": "crypto exchange",
+                "country": "Panama"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Allison Hill",
+                "to": "Gardner, Robinson and Lawrence Exchange",
+                "amount": 59628,
+                "currency": "USD",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Gardner, Robinson and Lawrence Exchange",
+                "to": "Guzman, Hoffman and Baldwin",
+                "amount": 58557,
+                "currency": "USDT",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Allison Hill is registered as a consultant but declared limited income. They transferred 59628 USD to a Panama crypto exchange and then routed 58557 USDT to a company in Serbia with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-100_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-100_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-101",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Stanley LLC",
+        "subject": {
+            "name": "Gina Moore",
+            "dob": "1982-05-10",
+            "pob": "North Noahstad, Tanzania",
+            "nationality": "Guatemala",
+            "id_type": "Driving License",
+            "id_number": "yfJ940781",
+            "id_expiry": "2027-01-09"
+        },
+        "entities": [
+            {
+                "name": "Gina Moore",
+                "type": "individual",
+                "country": "Guatemala"
+            },
+            {
+                "name": "Calderon-Montgomery",
+                "type": "corporate",
+                "country": "Luxembourg"
+            },
+            {
+                "name": "Ray-Bush Exchange",
+                "type": "crypto exchange",
+                "country": "Hong Kong"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Gina Moore",
+                "to": "Ray-Bush Exchange",
+                "amount": 46952,
+                "currency": "USD",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Ray-Bush Exchange",
+                "to": "Calderon-Montgomery",
+                "amount": 46069,
+                "currency": "USDT",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Gina Moore is registered as a consultant but declared limited income. They transferred 46952 USD to a Hong Kong crypto exchange and then routed 46069 USDT to a company in Luxembourg with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-101_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-101_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-102",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Perez Inc",
+        "subject": {
+            "name": "Dr. Sharon James",
+            "dob": "1990-04-21",
+            "pob": "Franciscostad, Cote d'Ivoire",
+            "nationality": "Paraguay",
+            "id_type": "Passport",
+            "id_number": "kDy419283",
+            "id_expiry": "2027-10-03"
+        },
+        "entities": [
+            {
+                "name": "Dr. Sharon James",
+                "type": "individual",
+                "country": "Paraguay"
+            },
+            {
+                "name": "Mayo-Bowman",
+                "type": "corporate",
+                "country": "Malta"
+            },
+            {
+                "name": "Robinson, Nguyen and Tate Exchange",
+                "type": "crypto exchange",
+                "country": "Serbia"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Dr. Sharon James",
+                "to": "Robinson, Nguyen and Tate Exchange",
+                "amount": 72493,
+                "currency": "USD",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Robinson, Nguyen and Tate Exchange",
+                "to": "Mayo-Bowman",
+                "amount": 71091,
+                "currency": "USDT",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Dr. Sharon James is registered as a consultant but declared limited income. They transferred 72493 USD to a Serbia crypto exchange and then routed 71091 USDT to a company in Malta with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-102_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-102_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-103",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Callahan and Sons",
+        "subject": {
+            "name": "Jennifer Jones",
+            "dob": "1998-01-17",
+            "pob": "Jasonfort, Indonesia",
+            "nationality": "Turks and Caicos Islands",
+            "id_type": "National ID",
+            "id_number": "IqV724238",
+            "id_expiry": "2029-10-02"
+        },
+        "entities": [
+            {
+                "name": "Jennifer Jones",
+                "type": "individual",
+                "country": "Turks and Caicos Islands"
+            },
+            {
+                "name": "Patterson, Silva and Cox",
+                "type": "corporate",
+                "country": "Hong Kong"
+            },
+            {
+                "name": "Hicks Inc Exchange",
+                "type": "crypto exchange",
+                "country": "Cyprus"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Jennifer Jones",
+                "to": "Hicks Inc Exchange",
+                "amount": 67298,
+                "currency": "USDT",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Hicks Inc Exchange",
+                "to": "Patterson, Silva and Cox",
+                "amount": 65660,
+                "currency": "USD",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Jennifer Jones is registered as a consultant but declared limited income. They transferred 67298 USDT to a Cyprus crypto exchange and then routed 65660 USD to a company in Hong Kong with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-103_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-103_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-104",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Harrell LLC",
+        "subject": {
+            "name": "Rebecca Henderson",
+            "dob": "1963-10-09",
+            "pob": "Jamesmouth, Malta",
+            "nationality": "El Salvador",
+            "id_type": "Passport",
+            "id_number": "hsB801845",
+            "id_expiry": "2027-08-28"
+        },
+        "entities": [
+            {
+                "name": "Rebecca Henderson",
+                "type": "individual",
+                "country": "El Salvador"
+            },
+            {
+                "name": "Chavez Ltd",
+                "type": "corporate",
+                "country": "Hong Kong"
+            },
+            {
+                "name": "Baker, Mason and White Exchange",
+                "type": "crypto exchange",
+                "country": "Estonia"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Rebecca Henderson",
+                "to": "Baker, Mason and White Exchange",
+                "amount": 51338,
+                "currency": "USDT",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Baker, Mason and White Exchange",
+                "to": "Chavez Ltd",
+                "amount": 49368,
+                "currency": "USD",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Rebecca Henderson is registered as a consultant but declared limited income. They transferred 51338 USDT to a Estonia crypto exchange and then routed 49368 USD to a company in Hong Kong with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-104_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-104_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-105",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Spence PLC",
+        "subject": {
+            "name": "Katie Gonzalez",
+            "dob": "1984-11-22",
+            "pob": "New Stephanie, Uzbekistan",
+            "nationality": "Malta",
+            "id_type": "National ID",
+            "id_number": "xZt095701",
+            "id_expiry": "2029-11-01"
+        },
+        "entities": [
+            {
+                "name": "Katie Gonzalez",
+                "type": "individual",
+                "country": "Malta"
+            },
+            {
+                "name": "Brown PLC",
+                "type": "corporate",
+                "country": "Malta"
+            },
+            {
+                "name": "Miller Group Exchange",
+                "type": "crypto exchange",
+                "country": "United Arab Emirates"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Katie Gonzalez",
+                "to": "Miller Group Exchange",
+                "amount": 53180,
+                "currency": "USDT",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Miller Group Exchange",
+                "to": "Brown PLC",
+                "amount": 51130,
+                "currency": "USD",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Katie Gonzalez is registered as a consultant but declared limited income. They transferred 53180 USDT to a United Arab Emirates crypto exchange and then routed 51130 USD to a company in Malta with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-105_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-105_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-106",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Robinson, Jones and Welch",
+        "subject": {
+            "name": "Betty Alvarez",
+            "dob": "1996-11-11",
+            "pob": "West Allison, Netherlands",
+            "nationality": "Jamaica",
+            "id_type": "Passport",
+            "id_number": "CHC383465",
+            "id_expiry": "2029-07-18"
+        },
+        "entities": [
+            {
+                "name": "Betty Alvarez",
+                "type": "individual",
+                "country": "Jamaica"
+            },
+            {
+                "name": "Wright Inc",
+                "type": "corporate",
+                "country": "Venezuela"
+            },
+            {
+                "name": "Smith-Spencer Exchange",
+                "type": "crypto exchange",
+                "country": "Cayman Islands"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Betty Alvarez",
+                "to": "Smith-Spencer Exchange",
+                "amount": 82837,
+                "currency": "USDT",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Smith-Spencer Exchange",
+                "to": "Wright Inc",
+                "amount": 81550,
+                "currency": "BTC",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Betty Alvarez is registered as a consultant but declared limited income. They transferred 82837 USDT to a Cayman Islands crypto exchange and then routed 81550 BTC to a company in Venezuela with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-106_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-106_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-107",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Brown, Valdez and Lucas",
+        "subject": {
+            "name": "Taylor Heath",
+            "dob": "1964-04-09",
+            "pob": "West Elizabeth, Croatia",
+            "nationality": "Mauritania",
+            "id_type": "Driving License",
+            "id_number": "ZAm299737",
+            "id_expiry": "2026-11-03"
+        },
+        "entities": [
+            {
+                "name": "Taylor Heath",
+                "type": "individual",
+                "country": "Mauritania"
+            },
+            {
+                "name": "Davis Group",
+                "type": "corporate",
+                "country": "Panama"
+            },
+            {
+                "name": "Henderson-Owens Exchange",
+                "type": "crypto exchange",
+                "country": "Serbia"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Taylor Heath",
+                "to": "Henderson-Owens Exchange",
+                "amount": 50229,
+                "currency": "USD",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Henderson-Owens Exchange",
+                "to": "Davis Group",
+                "amount": 48776,
+                "currency": "USDT",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Taylor Heath is registered as a consultant but declared limited income. They transferred 50229 USD to a Serbia crypto exchange and then routed 48776 USDT to a company in Panama with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-107_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-107_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-108",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Russell Group",
+        "subject": {
+            "name": "Nicholas Mcbride",
+            "dob": "1966-11-19",
+            "pob": "East James, Kiribati",
+            "nationality": "Burundi",
+            "id_type": "Passport",
+            "id_number": "CZJ624731",
+            "id_expiry": "2028-07-31"
+        },
+        "entities": [
+            {
+                "name": "Nicholas Mcbride",
+                "type": "individual",
+                "country": "Burundi"
+            },
+            {
+                "name": "Williams PLC",
+                "type": "corporate",
+                "country": "Cyprus"
+            },
+            {
+                "name": "Novak and Sons Exchange",
+                "type": "crypto exchange",
+                "country": "Venezuela"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "Nicholas Mcbride",
+                "to": "Novak and Sons Exchange",
+                "amount": 69260,
+                "currency": "USDT",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Novak and Sons Exchange",
+                "to": "Williams PLC",
+                "amount": 67305,
+                "currency": "EUR",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "Nicholas Mcbride is registered as a consultant but declared limited income. They transferred 69260 USDT to a Venezuela crypto exchange and then routed 67305 EUR to a company in Cyprus with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-108_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-108_txns.html"
+            }
+        ]
+    },
+    {
+        "report_id": "SAR-109",
+        "disclaimer": "All names and entities are AI-generated and used for training purposes only.",
+        "reporter": "Brown PLC",
+        "subject": {
+            "name": "James Brown",
+            "dob": "1985-03-28",
+            "pob": "South Josephmouth, France",
+            "nationality": "Jamaica",
+            "id_type": "Passport",
+            "id_number": "dLV872343",
+            "id_expiry": "2030-03-17"
+        },
+        "entities": [
+            {
+                "name": "James Brown",
+                "type": "individual",
+                "country": "Jamaica"
+            },
+            {
+                "name": "Brown, Edwards and Williams",
+                "type": "corporate",
+                "country": "Cyprus"
+            },
+            {
+                "name": "Shaw-Farrell Exchange",
+                "type": "crypto exchange",
+                "country": "Estonia"
+            }
+        ],
+        "transactions": [
+            {
+                "from": "James Brown",
+                "to": "Shaw-Farrell Exchange",
+                "amount": 80005,
+                "currency": "USDT",
+                "date": "2025-02-15"
+            },
+            {
+                "from": "Shaw-Farrell Exchange",
+                "to": "Brown, Edwards and Williams",
+                "amount": 78503,
+                "currency": "BTC",
+                "date": "2025-02-16"
+            }
+        ],
+        "background": "James Brown is registered as a consultant but declared limited income. They transferred 80005 USDT to a Estonia crypto exchange and then routed 78503 BTC to a company in Cyprus with limited disclosure.",
+        "documents": [
+            {
+                "name": "KYC Identity",
+                "url": "/docs/sar-109_kyc.html"
+            },
+            {
+                "name": "Transaction Summary",
+                "url": "/docs/sar-109_txns.html"
+            }
+        ]
+    }
+]
