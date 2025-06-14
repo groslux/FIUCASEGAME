@@ -4,11 +4,16 @@ from session import init_session
 
 st.set_page_config(page_title="🔎 Suspicious Activity Triage", layout="wide")
 
-if "player_name" not in st.session_state:
-    st.session_state.player_name = st.text_input("👤 Enter your name to begin:")
-    if st.session_state.player_name:
+# Name input screen
+if not st.session_state.get("player_name"):
+    st.title("🕵️ Suspicious Activity Triage - Start")
+    name_input = st.text_input("Enter your name to begin:")
+    if name_input:
+        st.session_state.player_name = name_input
         st.rerun()
-elif st.session_state.player_name:
+
+# Main game interface
+else:
     init_session()
     st.title("🔎 Suspicious Activity Triage - FIU Simulation")
     st.subheader(f"🕵️ Officer: {st.session_state.player_name} | 📅 Day {st.session_state.current_day}")
