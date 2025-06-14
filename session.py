@@ -17,6 +17,7 @@ def init_session():
     if "typologies_detected" not in st.session_state:
         st.session_state.typologies_detected = []
 
+    # Set the current SAR if any are left
     if st.session_state.case_index < len(st.session_state.sars):
         st.session_state.current_sar = st.session_state.sars[st.session_state.case_index]
     else:
