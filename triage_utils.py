@@ -71,6 +71,11 @@ def process_decision(sar, decision, comment):
 def red_flag_picker(sar):
     st.markdown("### 🚩 Red Flag Selection")
     flags = load_red_flags()
+
+    # Fix: Ensure the red flag list is initialized
+    if "selected_red_flags" not in st.session_state:
+        st.session_state.selected_red_flags = []
+
     selected = st.multiselect("Which red flags apply to this case?", flags)
     if st.button("Submit Red Flags"):
         st.session_state.selected_red_flags.extend(selected)
