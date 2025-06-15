@@ -34,10 +34,10 @@ class PDF(FPDF):
         for err in errors:
             self.multi_cell(0, 8, f"Report ID: {err['report_id']}")
             self.multi_cell(0, 8, f"Background: {err['background']}")
-            self.multi_cell(0, 8, f"❌ Player Action: {err['player_action']}")
-            self.multi_cell(0, 8, f"✅ Correct Action: {err['correct_action']}")
-            self.multi_cell(0, 8, f"❌ Red Flags Missed: {', '.join(err['missed_flags'])}")
-            self.multi_cell(0, 8, f"✅ Required Flags: {', '.join(err['correct_flags'])}")
+            self.multi_cell(0, 8, f"Player Action: {err['player_action']}")
+            self.multi_cell(0, 8, f"Correct Action: {err['correct_action']}")
+            self.multi_cell(0, 8, f"Red Flags Missed: {', '.join(err['missed_flags'])}")
+            self.multi_cell(0, 8, f"Required Flags: {', '.join(err['correct_flags'])}")
             self.ln(4)
 
     def disclaimer(self):
